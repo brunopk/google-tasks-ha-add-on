@@ -17,7 +17,7 @@ Home assistant custom add-on to add functionalities for Google Tasks.
     ```
 
 > - For step 1 follow instructions in [Scenario 2: You do not have credentials set up yet](https://www.home-assistant.io/integrations/google_tasks/#scenario-2-you-do-not-have-credentials-set-up-yet) to create credentials for Google Tasks integration.
-> **Do not commit `credentials.json` nor `token.json` (generated automatically)**
+> - **Do not commit `credentials.json` nor `token.json` (generated automatically after running application).**
 
 ## Links
 
