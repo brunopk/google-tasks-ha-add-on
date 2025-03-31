@@ -16,7 +16,7 @@ Home assistant custom add-on to add functionalities for Google Tasks.
     yarn dev
     ```
 
-> - It is recommended to install the Google Tasks integration in order to set up the **OAuth consent screen** and other configurations described in [Scenario 2: You do not have credentials set up yet](https://www.home-assistant.io/integrations/google_tasks/#scenario-2-you-do-not-have-credentials-set-up-yet) that are also needed for the Google Tasks Home Assistant add-on. In the end, you will have one Google project with two different credentials: one for the Google Tasks integration and the other for the Google Tasks Home Assistant add-on.
+> - The reason to install the Google Tasks integration is to set up the **OAuth consent screen** and other configurations described in [Scenario 2: You do not have credentials set up yet](https://www.home-assistant.io/integrations/google_tasks/#scenario-2-you-do-not-have-credentials-set-up-yet) that are also needed for the Google Tasks Home Assistant add-on. In the end, you will have one Google project with two different credentials: one for the Google Tasks integration and the other for the Google Tasks Home Assistant add-on.
 > - **Do not commit `credentials.json` nor `token.json` (generated automatically after running application).**
 
 ## Links
