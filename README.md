@@ -1,4 +1,4 @@
-# Google Tasks Home Assistant add-on
+# Home Assistant Google Tasks add-on
 
 Home assistant custom add-on to add functionalities for Google Tasks.
 
