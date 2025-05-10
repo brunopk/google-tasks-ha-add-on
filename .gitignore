@@ -1,0 +1,8 @@
+node_modules
+dist
+credentials.json
+token.json
+
+# Editor directories and files
+.vscode/*
+.DS_Store
